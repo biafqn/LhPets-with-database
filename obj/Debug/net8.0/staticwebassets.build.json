@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "3E88jrqnh5rNOljDTHdYjpo07v+OxUPfI2bFSpTyFkc=",
+  "Source": "Projeto-Web-LHPets",
+  "BasePath": "_content/Projeto-Web-LHPets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto-Web-LHPets\\wwwroot",
+      "Source": "Projeto-Web-LHPets",
+      "ContentRoot": "C:\\Users\\Beatriz\\OneDrive\\Documentos\\SENAI\\back end\\C#\\Projeto-Web-LHPets\\wwwroot\\",
+      "BasePath": "_content/Projeto-Web-LHPets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Beatriz\\OneDrive\\Documentos\\SENAI\\back end\\C#\\Projeto-Web-LHPets\\wwwroot\\index.html",
+      "SourceId": "Projeto-Web-LHPets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Beatriz\\OneDrive\\Documentos\\SENAI\\back end\\C#\\Projeto-Web-LHPets\\wwwroot\\",
+      "BasePath": "_content/Projeto-Web-LHPets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
